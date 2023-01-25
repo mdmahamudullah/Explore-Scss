@@ -18,4 +18,16 @@ ul {
   padding: 20px;
   margin: 20px;
   color: rgb(91, 250, 255);
+}
+
+nav {
+  padding: 20px;
+  background: rgb(109, 3, 68);
+}
+nav ul {
+  padding: 20px;
+  border: 2px solid rgb(91, 250, 255);
+}
+nav ul li {
+  background-color: burlywood;
 }/*# sourceMappingURL=style.css.map */

@@ -18,3 +18,17 @@ ul{
     
     color: $primary-color;
 }
+
+nav{
+    padding: 20px;
+    background: rgb(109, 3, 68);
+    ul{
+        padding: 20px;
+        border: 2px solid $primary-color;
+
+        li{
+            background-color: burlywood;
+
+        }
+    }
+}
