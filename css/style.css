@@ -30,4 +30,16 @@ nav ul {
 }
 nav ul li {
   background-color: burlywood;
+}
+
+button {
+  color: rgb(119, 111, 1);
+  background-color: rgb(91, 250, 255);
+  border-radius: 5px;
+  padding: 10px;
+}
+button:hover {
+  color: rgb(255, 238, 0);
+  background-color: rgb(0, 140, 255);
+  border: 2px solid rgb(255, 238, 0);
 }/*# sourceMappingURL=style.css.map */
