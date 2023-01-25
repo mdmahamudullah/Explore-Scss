@@ -6,3 +6,15 @@ h1{
 p{
     background-color: $primary-color;
 }
+div{
+    background: rgb(109, 102, 0);
+    padding:20px;
+    color: aliceblue;
+}
+ul{
+    border: 2px solid $primary-color;
+    padding:20px;
+    margin:20px;
+    
+    color: $primary-color;
+}

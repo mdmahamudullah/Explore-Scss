@@ -5,4 +5,17 @@ h1 {
 
 p {
   background-color: rgb(91, 250, 255);
+}
+
+div {
+  background: rgb(109, 102, 0);
+  padding: 20px;
+  color: aliceblue;
+}
+
+ul {
+  border: 2px solid rgb(91, 250, 255);
+  padding: 20px;
+  margin: 20px;
+  color: rgb(91, 250, 255);
 }/*# sourceMappingURL=style.css.map */
